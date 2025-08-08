@@ -1,0 +1,7 @@
+––– Research Output –––
+Timestamp: 2025-08-04 04:38:26
+
+Convolutional Neural Networks (CNNs) are a type of feedforward neural network that learn features via filter or kernel optimization. They are a form of deep learning network widely used for processing and making predictions on data that has a grid-like topology, such as images.
+
+Recurrent Neural Networks (RNNs) are artificial neural networks designed for processing sequential data where the order of elements matters. They are particularly useful for tasks involving time series, text, and speech, capturing temporal dynamics by maintaining a 'memory' of previous inputs through recurrent connections.
+
